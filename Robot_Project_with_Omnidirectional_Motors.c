@@ -4,7 +4,7 @@
 // Course: Real-Time Programming for Embedded Systems
 // Professor: Jess Fiais
 
-// CONTROL OF THE VELOCITY OF AN OMNIDIRECTIONAL ROBOT'S MOTORS
+// CONTROL OF THE VELOCITY OF AN OMNIDIRECTIONAL ROBOT'S MOTORS - FREE_RTOS
 
 // Importing Libraries
 #include "main.h"
