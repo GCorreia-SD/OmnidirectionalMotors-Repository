@@ -1,10 +1,12 @@
-// Universidade Federal da Bahia (UFBA)
-// Departamento de Engenharia Elétrica e da Computação (DEEC)
-// Equipe: Gabriel, Márcio e Hugo
-// Matéria: Programação em Tempo Real para Sist. Embarcados
+// Federal University of Bahia (UFBA)
+// Department of Electrical and Computer Engineering (DEEC)
+// Team: Gabriel, Márcio and Hugo
+// Course: Real-Time Programming for Embedded Systems
 // Professor: Jess Fiais
-// CONTROLE DE VELOCIDADE DOS MOTORES DE UM ROBÔ OMNIDIRECIONAL
-// Importação de Bibliotecas
+
+// CONTROL OF THE VELOCITY OF AN OMNIDIRECTIONAL ROBOT'S MOTORS
+
+// Importing Libraries
 #include "main.h"
 #include "cmsis_os.h"
 #include "adc.h"
